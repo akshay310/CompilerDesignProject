@@ -1,1 +1,12 @@
 Question:
+intmain()beginintn,re=0,rem;while(expr)beginexpr=expr+expr;endend
+
+Expanded Question:
+int main() 
+begin 
+int n, re = 0, rem; 
+while(expr) 
+begin 
+expr=expr+expr; 
+end 
+end 
